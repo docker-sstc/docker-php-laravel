@@ -1,4 +1,4 @@
-FROM php:7.3-fpm-alpine
+FROM php:8.0.9-fpm-alpine
 
 # https://laravel.com/docs/7.x/installation
 RUN \
